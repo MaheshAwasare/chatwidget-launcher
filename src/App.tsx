@@ -20,9 +20,12 @@ function App() {
             <button className="bg-gradient-to-r from-cyan-500 to-cyan-400 text-white px-8 py-3 rounded-lg font-semibold hover:from-cyan-600 hover:to-cyan-500 transition flex items-center justify-center shadow-lg shadow-cyan-200">
               Get Started <ArrowRight className="ml-2 h-5 w-5" />
             </button>
-            <button className="bg-white border border-cyan-200 px-8 py-3 rounded-lg font-semibold hover:bg-cyan-50 transition text-cyan-600">
+            <a 
+              href="/demo.html" 
+              className="bg-white border border-cyan-200 px-8 py-3 rounded-lg font-semibold hover:bg-cyan-50 transition text-cyan-600"
+            >
               View Demo
-            </button>
+            </a>
           </div>
         </div>
       </header>
