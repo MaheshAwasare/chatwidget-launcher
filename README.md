@@ -1,3 +1,80 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Chat Assistant
 
 A modern, AI-powered chat assistant that can be easily integrated into any website with just a few lines of code. This landing page showcases the features and capabilities of the Chat Assistant product.
@@ -75,4 +152,4 @@ The landing page uses a modern design with a cyan color scheme and gradient effe
 
 ## 📄 License
 
-© 2024 Chat Assistant. All rights reserved.
+© 2025 Chat Assistant. All rights reserved.
