@@ -81,7 +81,7 @@ A modern, AI-powered chat assistant that can be easily integrated into any websi
 
 ## 🚀 Live Demo
 
-Visit the live demo at: [https://vermillion-pithivier-be0382.netlify.app](https://vermillion-pithivier-be0382.netlify.app)
+Visit the live demo at: [https://aichatassitantproduct.netlify.app/](https://aichatassitantproduct.netlify.app/)
 
 ## ✨ Features
 
