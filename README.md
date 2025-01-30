@@ -1,87 +1,10 @@
+# JAICA-LINK
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# Chat Assistant
-
-A modern, AI-powered chat assistant that can be easily integrated into any website with just a few lines of code. This landing page showcases the features and capabilities of the Chat Assistant product.
+A modern, AI-powered assistant that can be easily integrated into any website with just a few lines of code. This landing page showcases the features and capabilities of the JAICA-LINK product.
 
 ## 🚀 Live Demo
 
-Visit the live demo at: [https://vermillion-pithivier-be0382.netlify.app](https://vermillion-pithivier-be0382.netlify.app)
+Visit the live demo at: [https://aichatassitantproduct.netlify.app](https://aichatassitantproduct.netlify.app)
 
 ## ✨ Features
 
@@ -133,11 +56,11 @@ Visit the live demo at: [https://vermillion-pithivier-be0382.netlify.app](https:
 
 ## 💻 Integration
 
-Add Chat Assistant to your website with these simple steps:
+Add JAICA-LINK to your website with these simple steps:
 
 ```html
-<script src="https://chat-assistant.com/widget.js"></script>
-<chat-assistant api-key="your-key"></chat-assistant>
+<script src="https://jaica-link.com/widget.js"></script>
+<jaica-link-widget api-key="your-key"></jaica-link-widget>
 ```
 
 ## 🎨 Customization
@@ -152,4 +75,4 @@ The landing page uses a modern design with a cyan color scheme and gradient effe
 
 ## 📄 License
 
-© 2025 Chat Assistant. All rights reserved.
+© 2024 JAICA-LINK. All rights reserved.
